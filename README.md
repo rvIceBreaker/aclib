@@ -16,7 +16,9 @@ ACLib allows you to:
 
 Quick code examples can be observed in the TestApp project, maily in the 'Engine' class and the 'State' classes under the 'States' directory.
 
-Full documentation and tutorials will come soon.
+Full documentation will come soon.
+
+Tutorials can be found [here](http://rvicebreaker.blogspot.com/)
 
 ====
 
