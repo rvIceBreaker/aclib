@@ -10,7 +10,7 @@ ACLib uses Windows API calls (via pinvoke) to provide helper functions and lower
 ACLib allows you to:
 
   * Handle the output buffer in a manner similar to SDL or OpenGL, providing several helper functions for drawing.
-  * Access the input buffer in a clean, user-friendly manner that allows access to any key press, as well as mouse information.
+  * Access the input buffer in a clean, user-friendly manner that allows access to any key press, as well as mouse information, without locking the thread that calls it.
 
 ====
 
